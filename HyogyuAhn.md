@@ -1,6 +1,6 @@
 ## Intro
 <strong>이름: Ahn Hyogyu</strong><br>
-<strong>전공: INHA Artificial Intelligence</strong><sub><i> (2024.03 ~ )</i></sub>
+<strong>전공: INHA Artificial Intelligence</strong><sub><i> (2024.03 ~ )</i></sub><br>
 <strong>취미: 숏폼 보기</strong>
 
 <br>
